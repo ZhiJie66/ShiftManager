@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ShiftManager</string>
+    <!--    <string name="Login">Login</string>-->
+    <!--    <string name="Email">Email</string>-->
+    <!--    <string name="Company">Company Name</string>-->
+    <!--    <string name="Password">Password</string>-->
+    <!--    <string name="Confirm_Password">Confirm Password</string>-->
+    <!--    <string name="Click_to_Register">Register</string>-->
+    <!--    <string name="Logout">Logout</string>-->
+    <!--    <string name="Register">Register</string>-->
+    <!--    <string name="Click_to_Login">Login</string>-->
+</resources>
